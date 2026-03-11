@@ -1,6 +1,12 @@
 # HelloWorld - Mobile Application Class Exercise 1
 
-This is the first programming exercise for the Mobile Application class. It is a simple "Hello World" Android application built using Kotlin.
+This is the first programming exercise for the Mobile Application class. It is a simple "Hello World" Android application built using Kotlin/Java.
+
+Main Files:-
+
+1 - MainActivity.kt: https://github.com/Lalit-Verma-Here/mobile_apps/blob/cbe4fbf8e42d1524edc40a573dc087c174c0afe4/HelloWorld/app/src/main/java/com/mrlv/app2/MainActivity.kt
+
+2 - activity_main.xml: https://github.com/Lalit-Verma-Here/mobile_apps/blob/cbe4fbf8e42d1524edc40a573dc087c174c0afe4/HelloWorld/app/src/main/res/layout/activity_main.xml
 
 ## Overview
 
