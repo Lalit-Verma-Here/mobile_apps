@@ -2,6 +2,9 @@
 
 This is the second exercise for my mobile development class. It demonstrates how to use the Android `Canvas` and `Paint` classes to draw various 2D shapes programmatically on a custom Android `View`.
 
+Main Files:-
+1 - Canvas/app/src/main/java/com/mrlv/prac_1/Exam.java
+
 ## Features
 - Custom View implementation (`Exam.java`).
 - Drawing basic graphics primitives on a Canvas:
