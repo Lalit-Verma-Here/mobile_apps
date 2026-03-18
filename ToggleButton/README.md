@@ -2,6 +2,10 @@
 
 This is the fifth programming exercise for the Mobile Application class. It is a simple Android application built using Java that demonstrates the use of a `ToggleButton`.
 
+MainActivity.java: https://github.com/Lalit-Verma-Here/mobile_apps/blob/0cc8b3895fa85646b6a3552200742d68876c68cf/ToggleButton/app/src/main/java/com/mrlv/togglebutton/MainActivity.java
+
+activity_main.xml: https://github.com/Lalit-Verma-Here/mobile_apps/blob/0cc8b3895fa85646b6a3552200742d68876c68cf/ToggleButton/app/src/main/res/layout/activity_main.xml
+
 ## Overview
 
 The application demonstrates how to use a `ToggleButton` and attach an `OnCheckedChangeListener` to it to detect state changes and show a `Toast` notification.
