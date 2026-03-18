@@ -16,6 +16,9 @@ An automated image slideshow application written in Java. It cycles through a pr
 ### 4. [Sum Calculator](./SumCalculator/) (Exercise 4)
 A basic calculator Android application that allows users to perform simple arithmetic operations (Addition, Subtraction, Multiplication, Division) on two input numbers. Features include input validation, reset functionality, and error handling.
 
+### 5. [Toggle Button](./ToggleButton/) (Exercise 5)
+An Android application written in Java that demonstrates the use of a `ToggleButton`. It uses an `OnCheckedChangeListener` to detect state changes and displays a `Toast` message indicating whether the button is toggled ON or OFF.
+
 ## Getting Started
 
 To run any of the applications:
