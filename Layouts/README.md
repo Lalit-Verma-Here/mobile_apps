@@ -11,14 +11,17 @@ This is the 6th exercise for the mobile application class. This android applicat
 - **Linear Layout**: Arranges elements horizontally or vertically.
 
   LinearActivity.java: https://github.com/Lalit-Verma-Here/mobile_apps/blob/1b47cc81e194f55773032a2ef914a6d38fb82454/Layouts/app/src/main/java/com/mrlv/layouts/LinearActivity.java
+
   activity_linear.xml: https://github.com/Lalit-Verma-Here/mobile_apps/blob/1b47cc81e194f55773032a2ef914a6d38fb82454/Layouts/app/src/main/res/layout/activity_linear.xml
 - **Relative Layout**: Arranges elements relative to each other or to their parent.
 
   RelativeActivity.java: https://github.com/Lalit-Verma-Here/mobile_apps/blob/1b47cc81e194f55773032a2ef914a6d38fb82454/Layouts/app/src/main/java/com/mrlv/layouts/RelativeActivity.java
+
   activity_relative.xml: https://github.com/Lalit-Verma-Here/mobile_apps/blob/1b47cc81e194f55773032a2ef914a6d38fb82454/Layouts/app/src/main/res/layout/activity_relative.xml
 - **Table Layout**: Arranges elements into rows and columns.
 
   TableActivity.java: https://github.com/Lalit-Verma-Here/mobile_apps/blob/1b47cc81e194f55773032a2ef914a6d38fb82454/Layouts/app/src/main/java/com/mrlv/layouts/TableActivity.java
+
   activity_table.xml: https://github.com/Lalit-Verma-Here/mobile_apps/blob/1b47cc81e194f55773032a2ef914a6d38fb82454/Layouts/app/src/main/res/layout/activity_table.xml
 
 The `MainActivity` acts as a navigation hub, providing buttons to launch three specialized activities, each showcasing one of the layout types.
