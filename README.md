@@ -19,6 +19,9 @@ A basic calculator Android application that allows users to perform simple arith
 ### 5. [Toggle Button](./ToggleButton/) (Exercise 5)
 An Android application written in Java that demonstrates the use of a `ToggleButton`. It uses an `OnCheckedChangeListener` to detect state changes and displays a `Toast` message indicating whether the button is toggled ON or OFF.
 
+### 6. [Android Layouts](./Layouts/) (Exercise 6)
+An Android application that demonstrates the use of different fundamental Android layouts, including `LinearLayout`, `RelativeLayout`, and `TableLayout`. It includes a main activity acting as a navigation hub to explore specialized activities for each layout type.
+
 ## Getting Started
 
 To run any of the applications:
