@@ -1,7 +1,9 @@
 # Exercise 6: Android Layouts
 
 AndroidManifest.xml: https://github.com/Lalit-Verma-Here/mobile_apps/blob/1b47cc81e194f55773032a2ef914a6d38fb82454/Layouts/app/src/main/AndroidManifest.xml
+
 MainActivity: https://github.com/Lalit-Verma-Here/mobile_apps/blob/1b47cc81e194f55773032a2ef914a6d38fb82454/Layouts/app/src/main/java/com/mrlv/layouts/MainActivity.java
+
 activity_main.xml: https://github.com/Lalit-Verma-Here/mobile_apps/blob/1b47cc81e194f55773032a2ef914a6d38fb82454/Layouts/app/src/main/res/layout/activity_main.xml
 
 ## Overview
