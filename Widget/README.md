@@ -25,6 +25,4 @@ Main Files:
 
 Here are the screenshots demonstrating the application:
 
-![Screenshot 1](Screenshot%202026-04-28%20at%2013.03.32.png)
-![Screenshot 2](Screenshot%202026-04-28%20at%2013.04.20.png)
-![Screenshot 3](Screenshot%20From%202026-05-05%2003-14-49.png)
+![Program Screenshot](./Program_Screenshot.png)

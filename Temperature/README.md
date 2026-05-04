@@ -22,4 +22,4 @@ Main Files:
 
 Here are the screenshots demonstrating the application:
 
-![Screenshot](Screenshot%20From%202026-05-05%2004-16-13.png)
+![Program Screenshot](./Program_Screenshot.png)
