@@ -22,6 +22,18 @@ An Android application written in Java that demonstrates the use of a `ToggleBut
 ### 6. [Android Layouts](./Layouts/) (Exercise 6)
 An Android application that demonstrates the use of different fundamental Android layouts, including `LinearLayout`, `RelativeLayout`, and `TableLayout`. It includes a main activity acting as a navigation hub to explore specialized activities for each layout type.
 
+### 7. [Android Widget](./Widget/) (Exercise 7)
+An Android application that demonstrates how to create a home screen widget. It covers the basics of `AppWidgetProvider`, updating the widget via `RemoteViews`, and configuring widget metadata in XML.
+
+### 8. [Temperature Converter](./Temperature/) (Exercise 8)
+A simple temperature conversion application. It demonstrates handling user inputs, performing calculations (like Celsius to Fahrenheit), and updating the UI dynamically based on the input.
+
+### 9. [Gender Selection](./Gender/) (Exercise 9)
+An Android application demonstrating the use of selection controls, such as `RadioButton` and `RadioGroup`, to choose an option like gender. It processes user interaction and responds to selection changes.
+
+### 10. [Bottom Navigation Menu](./Menu/) (Exercise 10)
+An Android application written in Kotlin that demonstrates a Bottom Navigation Menu. It uses the Android Navigation Architecture Component to switch between multiple fragments (Home, Dashboard, Notifications) seamlessly.
+
 ## Getting Started
 
 To run any of the applications:
